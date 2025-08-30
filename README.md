@@ -67,10 +67,10 @@ Educational purposes
 
 Cryptographic research
 
-if you want to share coffee for me just send it to [bc1qm46n3zvwtywfr7ufdeksnhztw9a95pj2pj08qa](https://btcscan.org/address/bc1qm46n3zvwtywfr7ufdeksnhztw9a95pj2pj08qa)
-
 
 Security analysis
 
 ⚠️ Important Note
 This program is intended for educational and research purposes only. Use for illegal activities is strongly discouraged. Success in finding matching keys heavily depends on luck and computational power.
+
+if you want to share coffee for me just send it to [bc1qm46n3zvwtywfr7ufdeksnhztw9a95pj2pj08qa](https://btcscan.org/address/bc1qm46n3zvwtywfr7ufdeksnhztw9a95pj2pj08qa)
